@@ -9,26 +9,26 @@
 		<resource name="font_s" type="fontoverride" filename="RobotoCondensed-Regular.ttf" scale="90" />
 		<resource name="fixed" type="fontoverride" filename="DroidSansMono.ttf" scale="100" />
 
-		<string name="system">Система</string>
-		<string name="system_image">Образ системи</string>
-		<string name="vendor">Постачальник</string>
-		<string name="vendor_image">Постачальник зображень</string>
-		<string name="boot">Завантаження</string>
-		<string name="recovery">Відновлення</string>
-		<string name="cache">Кеш</string>
-		<string name="data">Дані</string>
-		<string name="sdcard">SD-карта</string>
-		<string name="internal">Внутрішня пам’ять</string>
-		<string name="microsd">Мікро SD-карта</string>
+		<string name="system">System</string>
+		<string name="system_image">System Image</string>
+		<string name="vendor">Vendor</string>
+		<string name="vendor_image">Vendor Image</string>
+		<string name="boot">Boot</string>
+		<string name="recovery">Recovery</string>
+		<string name="cache">Cache</string>
+		<string name="data">Data</string>
+		<string name="sdcard">SDCard</string>
+		<string name="internal">Internal Storage</string>
+		<string name="microsd">Micro SDCard</string>
 		<string name="usbotg">USB OTG</string>
 		<string name="android_secure">Android Secure</string>
 		<string name="dalvik">Dalvik / ART Cache</string>
 		<string name="sdext">SD-EXT</string>
-		<string name="adopted_data">Прийняті дані</string>
-		<string name="adopted_storage">Пристосована пам\'ять</string>
+		<string name="adopted_data">Adopted Data</string>
+		<string name="adopted_storage">Adopted Storage</string>
 		<string name="twrp_header">TWRP for Lenovo S650 ROW compiled by Hikari no Tenshi</string>
 		<string name="twrp_watch_header">TWRP %tw_version%</string>
-		<string name="cpu_temp">ПРОЦЕСОР: %tw_cpu_temp% ° C</string>
+		<string name="cpu_temp">ЦП: %tw_cpu_temp% ° C</string>
 		<string name="battery_pct">Батарея: %tw_battery%</string>
 		<string name="sort_by_name">Сортувати за назвою</string>
 		<string name="sort_by_date">Сортувати по даті</string>
@@ -43,14 +43,14 @@
 		<string name="tab_screen">ЕКРАН</string>
 		<string name="tab_vibration">ВІБРАЦІЯ</string>
 		<string name="tab_language">МОВА</string>
-		<string name="install_btn">Встановити</string>
+		<string name="install_btn">Встановлення</string>
 		<string name="wipe_btn">Витерти</string>
-		<string name="backup_btn">Резервне копіювання</string>
-		<string name="restore_btn">Відновити</string>
-		<string name="mount_btn">Монтувати</string>
+		<string name="backup_btn">Резервна копія</string>
+		<string name="restore_btn">Відновлення</string>
+		<string name="mount_btn">Монтування</string>
 		<string name="settings_btn">Налаштування</string>
 		<string name="advanced_btn">Розширені</string>
-		<string name="reboot_btn">Перезавантажити</string>
+		<string name="reboot_btn">Перезавантаження</string>
 		<string name="files_btn">Файли</string>
 		<string name="copy_log_btn">Копіювати Log</string>
 		<string name="select_type_hdr">Вибрати тип</string>
@@ -195,7 +195,7 @@
 		<string name="skip_md5_backup_chk">Пропустити генерацію MD5 під час Резервного Копіювання</string>
 		<string name="disable_backup_space_chk">Вимкнути перевірку Вільного місця</string>
 		<string name="refresh_sizes_btn">Оновити розміри</string>
-		<string name="swipe_backup">Потягніть для Резервного копіювання</string>
+		<string name="swipe_backup">Потягніть для Рез. копіювання</string>
 		<string name="backup_name_exists">Резервна копія з таким іменем вже існує!</string>
 		<string name="encrypt_backup">Шифрувати резервну копію?</string>
 		<string name="enter_pass">Введіть пароль:</string>
@@ -250,5 +250,37 @@
 		<string name="utcm8">(UTC -8) Тихоокеанський час</string>
 		<string name="utcm7">(UTC -7) Гірський час</string>
 		<string name="utcm6">(UTC -6) Центральний час</string>
+        <string name="use_rmrf_chk">Використовувати rm -rf замість форматування</string>
+        <string name="use24clock_chk">Використовувати 24-годинний формат годинника</string>
+		<string name="rev_navbar_chk">Інвертована компонавка навігаційної панелі</string>
+		<string name="simact_chk">Імітувати дії для тестування тем</string>
+        <string name="settings_hdr">Налаштування</string>
+        <string name="settings_gen_hdr">Загальні</string>
+		<string name="settings_gen_s_hdr">Загальні</string>
+		<string name="settings_gen_btn">Загальні</string>
+        <string name="settings_screen_hdr">Екран</string>
+        <string name="screen_bright_slider">Яскравість: %tw_brightness_pct%%</string>
+        <string name="settings_screen_timeout_hdr">Screen Timeout</string>
+		<string name="enable_timeout_chk">Увімкнути тайм-аут екрана</string>
+		<string name="screen_to_slider">Тайм-аут екрана в секундах:</string>
+		<string name="screen_to_slider_s">Тайм-аут екрана в секундах (0=вимкнуто): %tw_screen_timeout_secs%</string>
+		<string name="screen_to_na">Налаштування тайм-аута екрана недоступні</string>
+        <string name="vibration_hdr">Вібрація</string>
+		<string name="button_vibration_hdr">Вібрація кнопок</string>
+		<string name="kb_vibration_hdr">Вібрація клавіатури</string>
+		<string name="act_vibration_hdr">Вібрація дій</string>
+		<string name="button_vibration">Вібрація кнопок:</string>
+		<string name="kb_vibration">Вібрація клавіатури:</string>
+		<string name="act_vibration">Вібрація дій:</string>
+        <string name="language_hdr">Мова</string>
+        <string name="select_language">Вибір мови:</string>
+		<string name="sel_lang_btn">Вибір мови</string>
+		<string name="set_language_btn">Встан. мову</string>
+        <string name="sel_tz_offset">Виберіть зміщення (зазвичай 0): %tw_time_zone_guioffset%</string>
+        <string name="tz_offset_none">Немає</string>
+        <string name="use_dst_chk">Використовувати літній час (DST)</string>
+		<string name="curr_tz">Поточний часовий пояс: %tw_time_zone%</string>
+		<string name="curr_tz_s">Поточний часовий пояс:</string>
+		<string name="set_tz_btn">Встан. час. пояс</string>
 	</resources>
 </language>
