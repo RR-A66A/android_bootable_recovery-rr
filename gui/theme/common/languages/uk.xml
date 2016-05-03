@@ -356,7 +356,7 @@
 		<string name="recovery_commands_complete">Recovery Commands виконано</string>
 		<string name="recreate_folder_err">Не вдалося створити теку {1}.</string>
 		<string name="refresh_sizes_btn">Оновити розміри</string>
-		<string name="reload_theme_btn">Перезавантажити тему</string>
+		<string name="reload_theme_btn">Обновити тему</string>
 		<string name="remove_all">Видалити всі файли у '{1}'</string>
 		<string name="remove_part_table">Видалення таблиці розділів...</string>
 		<string name="rename_backup_complete">Перейменування резервної копії завершено</string>
@@ -490,7 +490,7 @@
 		<string name="swipe_delete_s">   Видалити</string>
 		<string name="swipe_factory_reset">Потягніть щоб скинути</string>
 		<string name="swipe_fix_contexts">   Виправити Contexts</string>
-		<string name="swipe_flash">Потягніть для підтвердження прошивки</string>
+		<string name="swipe_flash">Потягніть для підтвердження</string>
 		<string name="swipe_format_data">Потягніть, щоб форматувати Data</string>
 		<string name="swipe_format_data_s">   Форматувати Data</string>
 		<string name="swipe_part_sd">Потягніть для розбиття</string>
@@ -542,9 +542,9 @@
 		<string name="target_partition">Цільовий розділ:</string>
 		<string name="term_hdr">Terminal Command</string>
 		<string name="term_kill_btn">KILL</string>
-		<string name="term_s_hdr">Terminal</string>
-		<string name="term_sel_folder_hdr">Browse to Starting Folder</string>
-		<string name="terminal_btn">Terminal</string>
+		<string name="term_s_hdr">Термінал</string>
+		<string name="term_sel_folder_hdr">Перейти до початкової теки</string>
+		<string name="terminal_btn">Термінал</string>
 		<string name="theme_ver_err">Версія сторонньої теми не відповідає версії TWRP. Застосована стандартна тема.</string>
 		<string name="time_zone_hdr">Часовий пояс</string>
 		<string name="too_many_flash">Too many partitions selected for flashing.</string>
@@ -647,8 +647,8 @@
 		<string name="zip_queue_count">%tw_zip_queue_count% з максимум 10 файлів у черзі</string>
 		<string name="zip_queue_count_s">Файл %tw_zip_queue_count% з 10:</string>
 		<string name="zip_sig_chk">Перевірка підпису Zip</string>
-		<string name="zip_warn1">Ця операція може встановити несумісне</string>
-		<string name="zip_warn2">програмне забезпечення і зробити пристрій непридатним для використання.</string>
+		<string name="zip_warn1">Ця операція може встановити несумісне програмне забезпечення</string>
+		<string name="zip_warn2">і зробити Ваш пристрій непридатним для використання.</string>
 		<string name="zip_wipe_cache">One or more zip requested a cache wipe -- Wiping cache now.</string>
 
 	</resources>
