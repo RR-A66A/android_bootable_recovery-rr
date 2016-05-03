@@ -517,6 +517,7 @@
 		<string name="swipe_unlock">   Розблокувати</string>
 		<string name="swipe_wipe">Потягніть, щоб очистити</string>
 		<string name="swipe_wipe_s">   Очистити</string>
+		<string name="sys_ro_hdr">Немодифіковний розділ System</string>
 		<string name="sys_ro_keep">Залишити System тільки для читання?</string>
 		<string name="sys_ro_keep_ro_btn">Залишити тільки для читання</string>
 		<string name="sys_ro_never_show_chk">Ніколи не показувати цей екран знову під час завантаження</string>
