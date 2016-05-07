@@ -389,7 +389,7 @@
 		<string name="restore_enc_backup_hdr">Зашифрована Резервна копія</string>
 		<string name="restore_error">Помилка під час процесу відновлення.</string>
 		<string name="restore_folder">Тека резервних копій: '{1}'</string>
-		<string name="restore_hdr">Відновити</string>
+		<string name="restore_hdr">Відновлення</string>
 		<string name="restore_part_count">Відновлення розділів {1}...</string>
 		<string name="restore_part_done">[{1} готово ({2} секунд)]</string>
 		<string name="restore_read_only">Не можливо відновити {1} -- змонтовано тільки для читання.</string>
